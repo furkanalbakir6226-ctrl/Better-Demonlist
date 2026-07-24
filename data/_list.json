@@ -1,5 +1,31 @@
 [
-    "SampleLevel1",
-    "SAMPLELEVEL2",
-    "Sample_Level_3"
+    {
+        "name": "Society",
+        "author": "Neomarbilan",
+        "verifier": "wPopoff",
+        "id": 127323087,
+        "verificationConnection": "https://www.youtube.com/watch?v=omG1VuyA92w"
+    },
+    {
+        "name": "Thinking Space II",
+        "author": "CarioX",
+        "verifier": "Zoink",
+        "id": 119544028,
+        "verificationConnection": "https://www.youtube.com/watch?v=fnz9ddZjIGc"
+    },
+    {
+       "name": "Flamewall",
+       "author": "Narwall",
+       "verifier": "Cuatrocientos",
+       "id": 126242564,
+       "verificationConnection": "https://www.youtube.com/watch?v=gwNYGFmo_WY"
+    },
+    {
+        "name": "Amethyst",
+        "author": "iMist",
+        "verifier": "wPopoff",
+        "id": 119550490,
+        "verificationConnection": "https://www.youtube.com/watch?v=OqGuNBi3_SU"
+    }
 ]
+        
