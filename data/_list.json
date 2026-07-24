@@ -52,20 +52,20 @@
         "name": "Nullscapes",
         "author": "ItzKiba",
         "verifier": "Zoink",
-        "id": "109780665",
+        "id": 109780665,
         "verificationConnection": "https://youtu.be/EztneTPp5CU"
     },
     {
         "name": "BOOBAWAMBA",
         "author": "Akunakunn",
         "verifier": "EastShark",
-        "id": "110816181",
+        "id": 110816181,
         "verificationConnection": "https://youtu.be/20fYiqLAo_E"
     },
     {
         "name": "Quanteuse processing",
         "author": "Renn241",
-        "verifier: "Zoink",
+        "verifier": "Zoink",
         "id": 117692518,
         "verificationConnection": "https://youtu.be/j5NC0u1Q91Q"
     },
@@ -105,4 +105,7 @@
         "verificationConnection": "https://youtu.be/aTxt76U3e2Q"
     },
     {
+        
+    
+        
         
